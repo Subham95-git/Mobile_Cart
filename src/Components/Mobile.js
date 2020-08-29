@@ -34,12 +34,14 @@ render(props){
                 </div>
                 <img className="card-img-top" src={this.props.data.image} alt="Card image cap"></img>
                 <div className='card-body'>
-                    <div className="row">
-                    <div className="col-md-12 text-center">
-                    <button type='button' className='btn btn-warning btn-md' onClick={this.renderTable}>Specifications</button>
+                    <div className="btn-group">
+                    
+                    <button type='button' className='btn btn-warning btn-sm' onClick={this.renderTable}>Specifications</button>
                     &nbsp; &nbsp; &nbsp;
-                    <button type='button' className='btn btn-success btn-md' >Buy Now</button>
-                    </div>
+                    <button type='button' className='btn btn-warning btn-sm' >Add to Cart</button>
+                    &nbsp; &nbsp; &nbsp;
+                    <button type='button' className='btn btn-success btn-sm' >Buy Now</button>
+                    
                     </div>
                     <br></br><br></br><br></br>
                     {datatable}
