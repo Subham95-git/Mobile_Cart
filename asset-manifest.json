@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mobile_Cart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Mobile_Cart/static/js/main.b7b1323f.chunk.js",
+    "main.js.map": "/Mobile_Cart/static/js/main.b7b1323f.chunk.js.map",
+    "runtime-main.js": "/Mobile_Cart/static/js/runtime-main.7cba206c.js",
+    "runtime-main.js.map": "/Mobile_Cart/static/js/runtime-main.7cba206c.js.map",
+    "static/css/2.11829350.chunk.css": "/Mobile_Cart/static/css/2.11829350.chunk.css",
+    "static/js/2.cb7bf22d.chunk.js": "/Mobile_Cart/static/js/2.cb7bf22d.chunk.js",
+    "static/js/2.cb7bf22d.chunk.js.map": "/Mobile_Cart/static/js/2.cb7bf22d.chunk.js.map",
+    "index.html": "/Mobile_Cart/index.html",
+    "precache-manifest.ccd90c1fba5859524e0c4dfa99cec4cf.js": "/Mobile_Cart/precache-manifest.ccd90c1fba5859524e0c4dfa99cec4cf.js",
+    "service-worker.js": "/Mobile_Cart/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Mobile_Cart/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Mobile_Cart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cb7bf22d.chunk.js.LICENSE.txt": "/Mobile_Cart/static/js/2.cb7bf22d.chunk.js.LICENSE.txt",
+    "static/media/Galaxy-S10-Plus.jpg": "/Mobile_Cart/static/media/Galaxy-S10-Plus.0a7e2f9c.jpg",
+    "static/media/iphone_x.jpg": "/Mobile_Cart/static/media/iphone_x.d77cd666.jpg",
+    "static/media/onepluse.png": "/Mobile_Cart/static/media/onepluse.fd9a5d44.png",
+    "static/media/pixel_2_xl.png": "/Mobile_Cart/static/media/pixel_2_xl.30914bf1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cba206c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.cb7bf22d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7b1323f.chunk.js"
+  ]
+}
