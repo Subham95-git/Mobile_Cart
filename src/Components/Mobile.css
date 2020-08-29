@@ -3,3 +3,8 @@
     height: 10vw;
     object-fit: cover;
 }
+
+button{
+    display: inline-block;
+    vertical-align: top;
+}
